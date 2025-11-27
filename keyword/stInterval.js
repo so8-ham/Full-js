@@ -1,0 +1,4 @@
+let id=setInterval(() => {
+    console.log("Apna College");
+},2000);
+clearInterval(id);

@@ -1,0 +1,13 @@
+console.log(Math.floor(Math.random()*10+5));
+console.log(Math.pow(5,7));
+console.log(Math.sqrt(144));
+console.log(Math.abs(-23));
+console.log(Math.round(5.6));
+console.log(Math.ceil(4.3));
+console.log(Math.min(3,5,7,8,1,0));
+console.log(Math.max(3,5,7,8,1,0));
+console.log(Math.sin(30*Math.PI/180));
+console.log(Math.cos(30*Math.PI/180));
+console.log(Math.tan(30*Math.PI/180));
+console.log(Math.log(10));
+console.log(Math.exp(3));

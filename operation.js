@@ -1,0 +1,16 @@
+const a=10;
+const b=50;
+console.log(a+b);
+console.log(a-b);
+c=(a*b);
+console.log(c);
+console.log(a/b);
+console.log(a**b);
+console.log(a>>b);
+console.log(a<<b);
+console.log(a^b);
+console.log(a&b);
+console.log(a%b);
+console.log(0/0);
+console.log(NaN+1);
+console.log(NaN-1);
